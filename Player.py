@@ -165,3 +165,4 @@ class Player(sprite.Sprite):
         self.KEY = False
         self.rect.x = self.startX
         self.rect.y = self.startY  # перемещаемся в начальные координаты
+# CHANGE
